@@ -1,4 +1,6 @@
 @charset "utf-8";
 body {
 	background-color: #00D;
+	font-weight: bold;
+	color: #D00;
 }
